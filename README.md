@@ -1,5 +1,6 @@
 # hw
 107ab0732
+
 pecheck 判斷所抓取的檔案是否為PE檔
 
 getstring 用來擷取檔案裡面的內容
